@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lonely Game", "Lonely Game\Lonely Game.csproj", "{7A5DE8E6-78C1-4A6C-BA0C-C1067E4F468B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A5DE8E6-78C1-4A6C-BA0C-C1067E4F468B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5DE8E6-78C1-4A6C-BA0C-C1067E4F468B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5DE8E6-78C1-4A6C-BA0C-C1067E4F468B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5DE8E6-78C1-4A6C-BA0C-C1067E4F468B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A915179-153F-4486-A88E-C37D15690253}
+	EndGlobalSection
+EndGlobal
